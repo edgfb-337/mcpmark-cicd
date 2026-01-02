@@ -75,7 +75,7 @@ This application is optimized for fast development and deployment:
 - Lightweight dependencies
 - Fast startup time (< 5 seconds)
 
-## 📋 Available Scripts
+## 📜 Available Scripts
 
 ### Development
 
@@ -226,3 +226,9 @@ MIT License - See LICENSE file for details.
 ---
 
 **Modern Node.js** | **Fast & Lightweight** | **Production Ready**
+
+---
+
+## 🆕 Issue Management Automation
+
+New GitHub Actions workflow added for automated issue triage, epic subtask creation, and auto-responses. See `.github/workflows/issue-automation.yml` for details.
